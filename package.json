@@ -1,0 +1,16 @@
+{
+  "name": "rtf-2020-day-4-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "herd-the-babies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1"
+  }
+}
